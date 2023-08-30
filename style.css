@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Inter&family=PT+Serif&family=Poppins:ital,wght@0,100;0,400;0,500;1,300;1,400;1,500&family=REM&family=Roboto+Slab:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    width: 100%;
+    height: 740px;
+    background-color: skyblue;
+}
+
+.flag {
+    position: absolute;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 8%;
+    height: 600px;
+}
+
+.apj {
+    position: absolute;
+    width: 30%;
+    margin-left: 60%;
+    margin-top: 15%;
+}
+
+.head1 {
+    position: absolute;
+    margin-left: 10%;
+    font-size: 109px;
+}
+
+.f {
+    color: rgb(255, 153, 51)
+}
+
+.s {
+    color: #ffff;
+}
+
+.t {
+    color: rgb(4, 106, 56);
+}
+
+.page-2 {
+    width: 100%;
+    height: 4400px;
+    background-color: skyblue;
+}
+
+.intro {
+    margin-left: 10%;
+    width: 80%;
+    height: 600px;
+    background-color: rgb(255, 153, 51);
+}
+
+.para1 {
+    padding: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.education {
+    margin-left: 10%;
+    height: 600px;
+    background-color: #ffff;
+    width: 80%;
+}
+
+.head2 {
+    color: blue;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.para2 {
+    padding: 100px;
+    color: blue;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.page3 {
+    width: 80%;
+    height: 600px;
+    background-color: rgb(255, 153, 51);
+    margin-left: 10%;
+}
+.head3{
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+.para3{
+    color: #fff;
+    padding: 100px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.page4{
+    height: 600px;
+    background-color: #fff;
+    margin-left: 10%;
+    width: 80%;
+}
+.head4{
+    color: blue;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+.para4{
+    color:blue;
+    font-size: 20px;
+    padding: 100px;
+    font-weight: lighter;
+}
+.page5{
+    width: 80%;
+    background-color: rgb(255, 153, 51);
+    margin-left: 10%;
+    height: 600px;
+}
+.head5{
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.para5{
+    color:#fff;
+    padding: 100px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.page6{
+    background-color: #fff;
+    width: 80%;
+    margin-left: 10%;
+    height: 600px;
+}
+.head6{
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 60px;
+}
+.para6{
+    color: blue;
+    font-weight: lighter;
+    font-size: 20px;
+    padding: 100px;
+}
+.page7{
+    width: 80%;
+    height: 600px;
+    margin-left: 10%;
+    background-color: rgb(255, 153, 51);
+}
+.head7{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+}
+.para7{
+    color: #fff;
+    font-weight: lighter;
+    font-size: 20px;
+    padding: 100px;
+}
+footer{
+    background-color: wheat;
+    height: 100px;
+}
+.head8{
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}    
